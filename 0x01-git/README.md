@@ -1,2 +1,1 @@
-My first readme
-New updates
+and only for this task
